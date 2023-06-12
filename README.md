@@ -69,5 +69,6 @@ That's it! You have created a simple stateless service using Azure Service Fabri
 
 Remember to install the necessary NuGet packages if you need to use additional libraries or frameworks within your stateless service.
 
+For a detailed explanation, please see the video: https://www.youtube.com/watch?v=TcMRR9N9Yk0&list=PLalrWAGybpB_dBdtvLXUjOFp78X97lren&index=3
 
 
